@@ -1,0 +1,16 @@
+{
+  "title": "My amazing bridge building asset",
+  "description": "A component that will build a 3d bridge between to vector points",
+  "godotVersion": "3.1",
+  "icon": "icon.png",
+  "previews": [
+    "screenshots/screenshot1.jpg",
+    "screenshots/screenshot2.jpg",
+    "https://www.youtube.com/watch?v=hY7m5jjJ9mM",
+    "videos/test.mov"
+  ],
+  "details": "README.md",
+  "price": 3.14,
+  "tags":["3d", "bridge", "dynamic-creation"],
+  "branch":"master"
+}
