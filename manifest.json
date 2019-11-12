@@ -4,10 +4,10 @@
   "godotVersion": "3.1",
   "icon": "icon.png",
   "previews": [
-    "screenshots/screenshot1.jpg",
-    "screenshots/screenshot2.jpg",
+    "previews/screenshot1.jpg",
+    "previews/screenshot2.jpg",
     "https://www.youtube.com/watch?v=hY7m5jjJ9mM",
-    "videos/test.mov"
+    "previews/test.mov"
   ],
   "details": "README.md",
   "price": 3.14,
